@@ -1,0 +1,6 @@
+C:\Users\blang\Documents\BillsCoursework\Testing\TestCode2\bin\Debug\TestCode2.exe
+C:\Users\blang\Documents\BillsCoursework\Testing\TestCode2\bin\Debug\TestCode2.pdb
+C:\Users\blang\Documents\BillsCoursework\Testing\TestCode2\obj\Debug\TestCode2.csproj.AssemblyReference.cache
+C:\Users\blang\Documents\BillsCoursework\Testing\TestCode2\obj\Debug\TestCode2.csproj.CoreCompileInputs.cache
+C:\Users\blang\Documents\BillsCoursework\Testing\TestCode2\obj\Debug\TestCode2.exe
+C:\Users\blang\Documents\BillsCoursework\Testing\TestCode2\obj\Debug\TestCode2.pdb
